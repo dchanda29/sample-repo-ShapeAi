@@ -1,0 +1,23 @@
+button {
+    background-color: rgb(216, 152, 186);
+    color: purple;
+    margin: 150px;
+    border: 5px darkred solid;
+    border-radius: 8px;
+    padding: 10px;
+    font-size: x-large;
+}
+
+button:hover {
+    background-color: yellow;
+    color: black;
+}
+
+button:focus {
+    background-color: red;
+}
+
+
+/* button:disabled {
+    cursor: not-allowed;
+} */
